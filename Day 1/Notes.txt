@@ -1,0 +1,22 @@
+HTML - Hypertext Markup Language.
+Here Hypertext means it could a be a hyperlink. 
+Markup is the style.
+
+Todays Topic:
+1. 
+
+
+
+7. Types of input
+
+< a href ="www.google.com"> </a>
+here, a is the anchor and href is the hypertext reference.
+a is the anchor...
+
+
+** List item **
+List item -> li
+
+Two types of list! 
+1. Ordered List -> ol
+2. Unordered List -> ul
