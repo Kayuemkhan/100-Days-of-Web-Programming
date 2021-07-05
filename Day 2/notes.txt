@@ -1,0 +1,4 @@
+1. CSS measuring 
+2. Class, id
+3. Background , color, margin, padding,
+4. Div class
