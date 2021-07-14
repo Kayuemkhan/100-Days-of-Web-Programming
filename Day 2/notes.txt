@@ -2,3 +2,24 @@
 2. Class, id
 3. Background , color, margin, padding,
 4. Div class
+5. CSS box Model
+6. CSS Auto keyword 
+7. Text Alignment
+8. Justify
+9. font weight
+10. Span tag
+11. Inline , Block element
+13. Text Decoration
+14. Background image gradiant ! 
+15. Box shadow.
+16. Border image
+17. Footer
+18. div*3>h2
+19. emmet
+20. Inline and block level elements
+21. Inline only can used margin right, no margin top or bottom
+22. Box Model
+23. Border Image
+24. psedo (hover, focus)
+25. 5 position
+26. h3: before
