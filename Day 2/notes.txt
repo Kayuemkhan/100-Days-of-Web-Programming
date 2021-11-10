@@ -23,3 +23,10 @@
 24. psedo (hover, focus)
 25. 5 position
 26. h3: before
+27. Audio, Video
+28. html5 vs html 4 (what is semantic)
+29. tr - table row
+30. Form
+31. FieldSet
+32. Input er id and lebel for same thakte hbe ! and name same thakle jekono ekta select korte parbe ! name different hoile alada hbe ! 
+33. nav > ul -> immidiate child of nav 
