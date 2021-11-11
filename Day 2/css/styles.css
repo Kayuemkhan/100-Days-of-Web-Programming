@@ -2,9 +2,17 @@ nav li{
     list-style: none;
 }
 nav li a {
+    
+    margin-right: 10px;
     text-decoration: none;
+    padding: 2px;
     color: black;
+    
+}
+nav li :hover{
+    background-color: darkgray;
 }
 nav ul{
+    
     display: flex;
 }
