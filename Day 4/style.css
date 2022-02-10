@@ -1,6 +1,17 @@
-.box{
+.container , .inner{
     border: 2px;
-    background-color: wheat;
     height: 200px;
     width: 200px;
+    border: 2px solid darkgoldenrod;
+    padding: 5px;
+    margin: 2dp;
+}
+.container{
+    background-color: wheat;
+
+}
+.inner{
+    background-color: maroon;
+    transform: rotate(30deg) scale(.75) translate(50px);
+    
 }
